@@ -1,0 +1,1 @@
+# CocoaSetUpClass_noAppDelegate
